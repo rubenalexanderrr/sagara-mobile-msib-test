@@ -1,16 +1,6 @@
 # weatherapp
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Cara Menjalankkan Aplikasi:
+-Buka aplikasi dengan emulator atau HP
+-setelah halaman splash screen akan muncul data cuaca saat itu juga di daerah kamu berada (akan meminta untuk menyalakan GPS jika belum)
+-lalu ada tombol untuk pergi ke halaman forecast untuk melihat cuaca 3 hari kedepan di daerah kamu berada
